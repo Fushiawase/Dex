@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 8eb35a34171c28b4facf37fe1614c129
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flagEn
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9545c90e4477734fb32f13d8da1ea2b
+      internalID: -1444189022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagFr
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41ebdeebaf875940b0f0b1d7e083f24
+      internalID: -2045701243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagDe
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d29af9e9a351f14c84112e4fd9ae024
+      internalID: 940545418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagSp
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fb20fe8ed2d9f4c968c6bf00e68afa
+      internalID: -973934873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagIt
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b1fec738e9b2943999379f52e02a10
+      internalID: -1463045956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagCh
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedd091b9031ac941b8cde631ffcb38b
+      internalID: 578861233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagJp
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9165000c258985f4ba6ba246a72ceccf
+      internalID: -409869062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flagKr
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acc28b580da68e42a99c0af1595bab8
+      internalID: 1332819289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldStar
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5007cd9d2acf2b4db6c859d3f851af0
+      internalID: -654576039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gem
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d87bfc735208894093cac889e53c0cd
+      internalID: 768190742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holo
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97e9329ecd69ed4ea6a021adf84cb9b
+      internalID: 90098739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FlagSp: -973934873
+      flagCh: 578861233
+      flagDe: 940545418
+      flagEn: -1444189022
+      flagFr: -2045701243
+      flagIt: -1463045956
+      flagJp: -409869062
+      flagKr: 1332819289
+      gem: 768190742
+      goldStar: -654576039
+      holo: 90098739
+      ssMain2_0: 159206378
+      ssMain2_10: 352569207
+      ssMain2_12: 1940000829
+      ssMain2_14: 1660390774
+      ssMain2_15: 229357380
+      ssMain2_16: -904956277
+      ssMain2_17: 1299326251
+      ssMain2_18: -1505154267
+      ssMain2_2: 786991554
+      ssMain2_20: -1091071939
+      ssMain2_21: -2009564540
+      ssMain2_22: 894559569
+      ssMain2_23: -1024244653
+      ssMain2_24: -1724967931
+      ssMain2_25: -108783292
+      ssMain2_26: 1639387703
+      ssMain2_27: 923742425
+      ssMain2_28: -1271880653
+      ssMain2_29: -1419096430
+      ssMain2_30: -1149736333
+      ssMain2_31: 1879332506
+      ssMain2_32: -1524816104
+      ssMain2_33: -1328459615
+      ssMain2_35: -756285024
+      ssMain2_36: 291960049
+      ssMain2_37: -2080550948
+      ssMain2_38: -1220500251
+      ssMain2_39: 1861759722
+      ssMain2_4: -990070099
+      ssMain2_40: 581174518
+      ssMain2_41: 545723302
+      ssMain2_42: -374042382
+      ssMain2_43: 1666363413
+      ssMain2_44: 516072559
+      ssMain2_46: 1333350633
+      ssMain2_47: -760311607
+      ssMain2_48: -1174362874
+      ssMain2_49: 1206391941
+      ssMain2_50: -2024985255
+      ssMain2_52: 470767665
+      ssMain2_53: -528311740
+      ssMain2_54: 697443437
+      ssMain2_55: -1591528734
+      ssMain2_56: -163859287
+      ssMain2_57: -984249801
+      ssMain2_58: 218623962
+      ssMain2_59: -1825789573
+      ssMain2_6: 642788631
+      ssMain2_60: 1856672433
+      ssMain2_61: -1233677726
+      ssMain2_62: 1968196257
+      ssMain2_63: -1121357905
+      ssMain2_64: -470105341
+      ssMain2_65: -155107910
+      ssMain2_66: 139605322
+      ssMain2_67: -420703964
+      ssMain2_68: -680106156
+      ssMain2_69: 1761355130
+      ssMain2_70: -1701207382
+      ssMain2_71: -1872554901
+      ssMain2_72: 1643188984
+      ssMain2_73: -285663904
+      ssMain2_74: -413126649
+      ssMain2_75: -586720978
+      ssMain2_76: 1947713166
+      ssMain2_77: -1306464064
+      ssMain2_78: 315606480
+      ssMain2_79: -1715319989
+      ssMain2_8: 1780855135
+      ssMain2_80: -1287306153
+      ssMain2_81: 762451273
+      ssMain2_82: -1354669568
+      ssMain2_83: -1316188757
+      ssMain2_84: -1358453169
+      ssMain2_85: -1610258419
+      ssMain2_86: 620303348
+      ssMain2_87: -799896515
+      ssMain2_88: -528396828
+      ssMain2_89: 663114452
+      ssMain2_90: -185233701
+      ssMain2_91: 707942021
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
