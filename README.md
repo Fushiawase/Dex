@@ -1,0 +1,1 @@
+Projet perso pour m'aider dans ma collecte de cartes. Cette appli est vouée à être un remplacement à l'application iOS "Dex" qui permet de répertorier les cartes comme je le voudrais mais n'est pas disponible sur Android.
